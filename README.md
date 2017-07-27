@@ -6,7 +6,7 @@
 
 This service is part of the larger [Logistics Wizard](https://github.com/IBM-Bluemix/logistics-wizard) project.
 
-## Overview AAA test
+## Overview  test
 
 This service monitors the weather conditions around retail stores and makes recommendations on additional shipments of goods.
 
